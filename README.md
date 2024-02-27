@@ -45,7 +45,7 @@ To use it as a pre-commit hook, install this packages as well as `commitizen` an
 ```yaml
 repos:
   - repo: https://github.com/ljnsn/cz-conventional-gitmoji
-    rev: 0.2.4
+    rev: v0.2.4
     hooks:
       - id: conventional-gitmoji
 ```
